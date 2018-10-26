@@ -1,10 +1,7 @@
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
-  "name": "my-glitch-app",
+  "name": "Messenger-Waktu-Sholat",
   "version": "0.0.1",
-  "description": "What am I about?",
+  "description": "Facebook Messenger Bot untuk menampilkan dan mengetahui Jadwal Waktu Sholat.",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
@@ -20,7 +17,7 @@
     "node": "8.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/welcome-project"
+    "url": "https://github.com/masdad/messenger-waktu-sholat"
   },
   "license": "MIT",
   "keywords": ""
